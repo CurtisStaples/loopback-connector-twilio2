@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-twilio2",
+  "name": "loopback-connector-twilio-postsmore",
   "version": "0.0.1",
   "description": "LoopBack connector for Twilio",
   "main": "index.js",
